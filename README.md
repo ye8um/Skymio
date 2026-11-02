@@ -4,6 +4,9 @@
 
 Skymio is a small weather display that shows the current temperature, whether it's raining, and the weather forecast for the next three days. It uses an ESP32-C3 and a 2.4-inch LCD screen to show the weather in a simple and easy-to-read way.
 
+<img width="1007" height="682" alt="Screenshot 2026-11-01 181725" src="https://github.com/user-attachments/assets/9cc73343-ea63-4591-b47e-a58460844e33" />
+
+
 ## Why I Made It
 
 I wanted to make something that I could actually use every day. Usually, whenever I want to check the weather, I have to open my phone or search it up. So I thought it would be cool to have a small display sitting on my desk that shows the weather automatically.
@@ -22,11 +25,11 @@ The weather is set to update automatically every 15 minutes, so I don't have to 
 
 ### PCB Layout
 
-![Skymio PCB](images/pcb.png)
+<img width="860" height="526" alt="Screenshot 2026-10-31 212611" src="https://github.com/user-attachments/assets/8eaa521a-f6bd-4e37-9d6c-dac8bf4d3b11" />
 
 ### Schematic
 
-![Skymio Schematic](images/schematic.png)
+<img width="1007" height="723" alt="Screenshot 2026-10-28 213556" src="https://github.com/user-attachments/assets/9c50008e-df07-43bc-b15b-86591e739a00" />
 
 ## Components
 
@@ -41,7 +44,7 @@ The weather is set to update automatically every 15 minutes, so I don't have to 
 | Custom PCB | 1 | Connects all the components |
 | USB-C cable | 1 | Powers the ESP32 |
 | 3D-printed enclosure | 1 | Holds everything together |
-| M2.5 screws and nuts | 2 | Secures the PCB |
+| M2.5 screws and nuts | 4 | Secures the PCB |
 
 ## Wiring
 
