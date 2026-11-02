@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 2 | 15h | 4 |
+| Week 4 | Tier 2 | 17h | 4 |
 
 ## Contents
 
@@ -65,12 +65,14 @@ Then finally added PCB for everything and finished the overall PCB design. Added
 
 ### 2026-11-01: November 1st: CAD DONE
 
-**3h**
+**5h**
 
 November 1st: CAD DONE
 
 I locked in today because I loki didn't do anything this week because I was busy. Finished the CAD by adding the top layer so that it matches the LCD screen. By adding holes for the screws and added in supports where the PCB will lay and lastly added the USBC hole. Picture time!
 
+![image](https://halflife.hackclub-assets.com/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/fdfd42d46ed2c594b4ce18c2fad1958bab936d6266bb666ae30ef5eec6eefe59.png)
+(added the actual cad of the screen so it would be accurate!)
 ![Screenshot 2026-11-01 181725](https://halflife.hackclub-assets.com/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/87da89ce2e2a395e6a324b16a5330c26e5489c578c91c5d1ada4ce3e9646a3a8.png)
 
 ![Screenshot 2026-11-01 181128](https://halflife.hackclub-assets.com/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/b6d8d73fbfe54950e1de961343cc50edbdc199ff9ef1cd0e21d1346d5c206993.png)
