@@ -25,7 +25,7 @@ The weather is set to update automatically every 15 minutes, so I don't have to 
 
 ### PCB Layout
 
-<img width="860" height="526" alt="Screenshot 2026-10-31 212611" src="https://github.com/user-attachments/assets/8eaa521a-f6bd-4e37-9d6c-dac8bf4d3b11" />
+<img width="1110" height="690" alt="Screenshot 2026-11-15 174215" src="https://github.com/user-attachments/assets/539d5e79-0583-466e-8911-6a6ab9af0040" />
 
 ### Schematic
 
